@@ -1,0 +1,40 @@
+project:
+  type: website
+
+website:
+  title: "Kemal Yayla"
+  site-url: "https://daesagelmar.github.io"
+
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: publications.qmd
+        text: Publications
+      - href: projects.qmd
+        text: Projects
+      - href: open-research.qmd
+        text: Open Research
+      - href: cv.qmd
+        text: CV
+
+    right:
+      - icon: github
+        href: https://github.com/DaesAgelmar
+        aria-label: GitHub
+
+  page-footer:
+    left: "© 2026 Kemal Yayla"
+    right: "Built with Quarto"
+
+  back-to-top-navigation: true
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    smooth-scroll: true
+    link-external-newwindow: true

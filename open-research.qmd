@@ -1,0 +1,32 @@
+---
+title: "Open Research"
+---
+
+I use computational and reproducible research workflows whenever data, ethics, and licensing conditions permit.
+
+My research artifacts may include:
+
+- analysis code,
+- data-processing pipelines,
+- computational appendices,
+- validation outputs,
+- reproducibility records,
+- metadata crosswalks,
+- visualization tools.
+
+## Selected public repositories
+
+### Thematic Evolution Visualization
+
+Computational resources for thematic-evolution analysis.
+
+[GitHub repository](https://github.com/DaesAgelmar/thematic-evolution-viz)
+
+### CRL Networks
+
+Network-analysis resources related to research on *College & Research Libraries*.
+
+[GitHub repository](https://github.com/DaesAgelmar/CRL_Networks)
+
+
+

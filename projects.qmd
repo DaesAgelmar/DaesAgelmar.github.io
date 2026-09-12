@@ -1,0 +1,38 @@
+---
+title: "Projects"
+---
+
+## Sleeping Beauty and Awakening Programme
+
+A multi-study research programme examining scientific dormancy, awakening, and post-awakening knowledge diffusion.
+
+The programme asks:
+
+- What happens during dormancy?
+- What triggers awakening?
+- Does citation visibility correspond to structural transmission?
+- How does awakened knowledge reshape scientific fields?
+
+Related studies include *Epistemic Pollination*, *Dormancy as a Contact Process*, and *The Many Faces of Awakening*.
+
+## INFRAREC
+
+### Stabilizing Scholarly Objects in Knowledge Infrastructures
+
+INFRAREC investigates the infrastructural conditions under which scholarly objects become recognizable, citable, indexed, and evaluable.
+
+The project focuses on:
+
+- software citation objecthood,
+- bibliographic identity,
+- genre recognition,
+- graph connectivity,
+- infrastructural recognition.
+
+## Research Evaluation Infrastructure
+
+This programme examines how bibliographic infrastructures shape the populations and objects available for research evaluation.
+
+## Labor and Credit in Science
+
+This programme studies the relationship between scientific work, contributorship, authorship, authority, and academic organization.

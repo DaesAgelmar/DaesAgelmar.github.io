@@ -1,0 +1,46 @@
+---
+title: "Research"
+---
+
+My research is organized around a recurring analytical problem:
+
+> **How faithfully do observable scholarly signals represent the scientific processes, structures, and forms of labor they are assumed to capture?**
+
+## Scientific Processes
+
+This research stream examines the temporal and structural dynamics of scientific recognition.
+
+Current themes include:
+
+- scientific dormancy,
+- Sleeping Beauty phenomena,
+- awakening and knowledge transmission,
+- citation trajectories,
+- epistemic change,
+- structural validation of bibliometric signals.
+
+## Scholarly Infrastructures
+
+This programme examines how infrastructures shape what becomes visible, citable, classifiable, and evaluable.
+
+Current themes include:
+
+- bibliographic recognition,
+- research evaluation infrastructures,
+- document-type ingestion,
+- formal versus functional openness,
+- software citation,
+- preservation and documentary quality,
+- metadata and knowledge graphs.
+
+## Organization of Science
+
+This stream focuses on the relationship between observable academic roles and underlying structures of labor, authority, mobility, and disciplinary fit.
+
+Current themes include:
+
+- hidden labor in team science,
+- contributorship and credit,
+- academic inbreeding,
+- disciplinary fit,
+- researcher mobility.

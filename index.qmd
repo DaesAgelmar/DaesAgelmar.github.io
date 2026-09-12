@@ -1,0 +1,46 @@
+---
+title: "Kemal Yayla"
+subtitle: "Computational Social Scientist"
+toc: false
+---
+
+I am an Assistant Professor at **İzmir Kâtip Çelebi University**, working at the intersection of **bibliometrics, scholarly communication, research evaluation, and computational social science**.
+
+My research examines how scientific activity becomes **visible, measurable, and evaluable through scholarly infrastructures**.
+
+> **When do formal representations of science correspond to the underlying processes they are expected to capture—and when do they systematically diverge?**
+
+## Research programme
+
+### Scientific Processes
+
+I study citation dynamics, delayed recognition, Sleeping Beauties, awakening processes, and epistemic change.
+
+### Scholarly Infrastructures
+
+I examine open science, bibliographic recognition, research evaluation infrastructures, software citation, documentary quality, and machine-facing visibility.
+
+### Organization of Science
+
+I study scientific labor, contributorship, academic mobility, disciplinary fit, and institutional structures.
+
+## Selected publications
+
+**Epistemic pollination: How sleeping beauty papers fertilize scientific ecosystems**  
+*Journal of Informetrics*, 20(3), 101819, 2026.  
+[DOI](https://doi.org/10.1016/j.joi.2026.101819)
+
+**Tracing Thematic Evolution in College & Research Libraries**  
+*College & Research Libraries*, 2026.
+
+**Strategic legitimacy signals and journal indexing**  
+*Malaysian Journal of Library & Information Science*, 31(1), 41–62, 2026.  
+[DOI](https://doi.org/10.22452/mjlis.vol31no1.3)
+
+## Current research
+
+My current work develops connected research programmes on:
+
+- scientific dormancy and awakening,
+- infrastructural conditions of scholarly recognition,
+- labor, credit, and organization in science.

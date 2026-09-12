@@ -1,0 +1,8 @@
+---
+title: "Publications"
+bibliography: bibliography/KY-Publications.bib
+nocite: '@*'
+toc: false
+---
+
+My scholarly outputs include journal articles, book chapters, conference contributions, and doctoral research.
