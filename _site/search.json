@@ -1,33 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Kemal Yayla",
-    "section": "",
-    "text": "I am an Assistant Professor at İzmir Kâtip Çelebi University, working at the intersection of bibliometrics, scholarly communication, research evaluation, and computational social science.\nMy research examines how scientific activity becomes visible, measurable, and evaluable through scholarly infrastructures."
-  },
-  {
-    "objectID": "index.html#research-programme",
-    "href": "index.html#research-programme",
-    "title": "Kemal Yayla",
-    "section": "Research programme",
-    "text": "Research programme\n\nScientific Processes\nI study citation dynamics, delayed recognition, Sleeping Beauties, awakening processes, and epistemic change.\n\n\nScholarly Infrastructures\nI examine open science, bibliographic recognition, research evaluation infrastructures, software citation, documentary quality, and machine-facing visibility.\n\n\nOrganization of Science\nI study scientific labor, contributorship, academic mobility, disciplinary fit, and institutional structures."
-  },
-  {
-    "objectID": "index.html#selected-publications",
-    "href": "index.html#selected-publications",
-    "title": "Kemal Yayla",
-    "section": "Selected publications",
-    "text": "Selected publications\nEpistemic pollination: How sleeping beauty papers fertilize scientific ecosystems\nJournal of Informetrics, 20(3), 101819, 2026.\nDOI\nTracing Thematic Evolution in College & Research Libraries\nCollege & Research Libraries, 2026.\nStrategic legitimacy signals and journal indexing\nMalaysian Journal of Library & Information Science, 31(1), 41–62, 2026.\nDOI"
-  },
-  {
-    "objectID": "index.html#current-research",
-    "href": "index.html#current-research",
-    "title": "Kemal Yayla",
-    "section": "Current research",
-    "text": "Current research\nMy current work develops connected research programmes on:\n\nscientific dormancy and awakening,\ninfrastructural conditions of scholarly recognition,\nlabor, credit, and organization in science."
-  },
-  {
     "objectID": "research.html",
     "href": "research.html",
     "title": "Research",
@@ -89,6 +61,34 @@
     "title": "Projects",
     "section": "Labor and Credit in Science",
     "text": "Labor and Credit in Science\nThis programme studies the relationship between scientific work, contributorship, authorship, authority, and academic organization."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Kemal Yayla",
+    "section": "",
+    "text": "I am an Assistant Professor at İzmir Kâtip Çelebi University, working at the intersection of bibliometrics, scholarly communication, research evaluation, and computational social science.\nMy research examines how scientific activity becomes visible, measurable, and evaluable through scholarly infrastructures."
+  },
+  {
+    "objectID": "index.html#research-programme",
+    "href": "index.html#research-programme",
+    "title": "Kemal Yayla",
+    "section": "Research programme",
+    "text": "Research programme\n\nScientific Processes\nI study citation dynamics, delayed recognition, Sleeping Beauties, awakening processes, and epistemic change.\n\n\nScholarly Infrastructures\nI examine open science, bibliographic recognition, research evaluation infrastructures, software citation, documentary quality, and machine-facing visibility.\n\n\nOrganization of Science\nI study scientific labor, contributorship, academic mobility, disciplinary fit, and institutional structures."
+  },
+  {
+    "objectID": "index.html#selected-publications",
+    "href": "index.html#selected-publications",
+    "title": "Kemal Yayla",
+    "section": "Selected publications",
+    "text": "Selected publications\nEpistemic pollination: How sleeping beauty papers fertilize scientific ecosystems\nJournal of Informetrics, 20(3), 101819, 2026.\nDOI\nTracing Thematic Evolution in College & Research Libraries\nCollege & Research Libraries, 2026.\nStrategic legitimacy signals and journal indexing\nMalaysian Journal of Library & Information Science, 31(1), 41–62, 2026.\nDOI"
+  },
+  {
+    "objectID": "index.html#current-research",
+    "href": "index.html#current-research",
+    "title": "Kemal Yayla",
+    "section": "Current research",
+    "text": "Current research\nMy current work develops connected research programmes on:\n\nscientific dormancy and awakening,\ninfrastructural conditions of scholarly recognition,\nlabor, credit, and organization in science."
   },
   {
     "objectID": "cv.html",
