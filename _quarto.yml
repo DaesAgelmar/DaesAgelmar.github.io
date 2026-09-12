@@ -4,23 +4,42 @@ project:
 website:
   title: "Kemal Yayla"
   site-url: "https://daesagelmar.github.io"
+  description: "Kemal Yayla is a computational social scientist studying bibliometrics, scholarly infrastructures, research evaluation, and the organization of science."
+
+  open-graph: true
+  twitter-card: true
 
   navbar:
+    search: true
+
     left:
       - href: index.qmd
         text: Home
+
       - href: research.qmd
         text: Research
+
       - href: publications.qmd
         text: Publications
+
       - href: projects.qmd
         text: Projects
+
       - href: open-research.qmd
         text: Open Research
+
       - href: cv.qmd
         text: CV
 
     right:
+      - text: ORCID
+        href: https://orcid.org/0000-0001-9064-611X
+        aria-label: ORCID
+
+      - icon: google
+        href: https://scholar.google.com/citations?user=RMPozRwAAAAJ&hl=tr
+        aria-label: Google Scholar
+
       - icon: github
         href: https://github.com/DaesAgelmar
         aria-label: GitHub

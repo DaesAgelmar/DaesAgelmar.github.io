@@ -1,8 +1,9 @@
 ---
 title: "Publications"
-bibliography: bibliography/KY-Publications.bib
-nocite: '@*'
-toc: false
+toc: true
+toc-depth: 2
 ---
 
-My scholarly outputs include journal articles, book chapters, conference contributions, and doctoral research.
+My scholarly outputs include journal articles, book chapters, conference contributions, preprints, and doctoral research.
+
+{{< include generated/publications.md >}}
