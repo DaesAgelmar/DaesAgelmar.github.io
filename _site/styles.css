@@ -41,3 +41,18 @@ a {
   text-decoration-thickness: 1px;
   text-underline-offset: 2px;
 }
+.publication-entry {
+  margin-bottom: 1.75rem;
+}
+
+.publication-entry p {
+  margin-bottom: 0.35rem;
+}
+
+.pub-type {
+  font-size: 0.82rem;
+  padding: 0.15rem 0.45rem;
+  border: 1px solid #adb5bd;
+  border-radius: 0.25rem;
+  white-space: nowrap;
+}
