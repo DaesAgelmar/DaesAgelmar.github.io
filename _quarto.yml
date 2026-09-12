@@ -1,6 +1,7 @@
 project:
   type: website
-
+  pre-render:
+    - python scripts/build_publications.py
 website:
   title: "Kemal Yayla"
   site-url: "https://daesagelmar.github.io"
